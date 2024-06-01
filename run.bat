@@ -1,3 +1,3 @@
-(load 3.clp)
+(load heuristic_search.clp)
 (reset)
 (run)
